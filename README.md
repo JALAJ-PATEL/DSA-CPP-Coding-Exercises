@@ -36,5 +36,4 @@
   <li><strong>Problem Statements:</strong> Detailed problem descriptions and requirements for each topic.</li>
   <li><strong>C++ Solutions:</strong> Well-commented C++ solutions for each problem, focusing on clarity, efficiency, and best coding practices.</li>
   <li><strong>LeetCode Questions:</strong> Solutions to LeetCode questions related to the covered topics.</li>
-  <li><strong>Additional Resources:</strong> Links to helpful articles, tutorials, and videos for further learning.</li>
 </ul>
