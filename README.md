@@ -26,9 +26,9 @@
   <li>Dynamic Programming (DP)</li>
   <li>Graph Algorithms</li>
   <li>Backtracking</li>
-  <li>Tries (Trie Data Structure)</li>
+  <li>Tries(Trie Data Structure)</li>
   <li>Bit Manipulations</li>
-  <li>Segment Tree and other Tree Data Structures</li>
+  <li>Segment Trees</li>
 </ul>
 
 <h2>Contents of the Repository</h2>
